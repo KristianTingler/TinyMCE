@@ -2,7 +2,7 @@
  *
  * Kristian Tingler
  *
- * (c) 2015
+ * 2015
  *
  *  Ziel des Projektes ist, dass die Items im Formats-DropDown je nach Font-Color
  *  einen dunklen Background bekommen.
